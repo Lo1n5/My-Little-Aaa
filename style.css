@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+	display: flex;
+	justify-content: center;
+}
+
+.link-header {
+	color: black;
+	background-color: white;
+
+	font-size: 50px;
+
+	padding: 25px;
+
+}
+
+.link-nav {
+    color: black;
+
+    display: flex;
+	justify-content: center;
+
+	background-color: white; 
+
+	font-size: 25px;
+}
+
+h1 {
+	width: 150px;
+	height: 150px; 
+
+	color: black;
+
+	font-size: 35px;
+}
+
+p {
+   color: black;
+
+   font-size: 20px
+}
